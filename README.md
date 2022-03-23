@@ -5,7 +5,7 @@ Creates flashcards that can be browsed with next and prev buttons. These flashca
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/E5V8jMPbb8.gif" width=400 height=500><br>
+<img src="http://g.recordit.co/E5V8jMPbb8.gif" width=500 height=400><br>
 
 
 ## Required
